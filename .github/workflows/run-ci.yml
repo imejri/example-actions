@@ -1,4 +1,4 @@
-name: CI
+name: CI for dast scan with nexploit-cli tool
 
 on:
   push:
