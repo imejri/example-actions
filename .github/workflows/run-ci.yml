@@ -1,4 +1,4 @@
-name: CI
+name: CI testing wiith nexploit dast scanner
 
 on:
   push:
